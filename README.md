@@ -9,7 +9,7 @@ Welcome to my GitHub wonderland, where code, games, and digital adventures await
 - 🎮 Gaming enthusiast: Master of the high seas 🏴‍☠️ in Sea of Thieves and Apex Legends sharpshooter 🔫.
 - ♟️ Chess & Go wizard - Making moves on the board with finesse! ♞
 
-![Metrics](https://metrics.lecoq.io/BBMQyyds?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
+  ![Metrics](https://metrics.lecoq.io/BBMQyyds?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
 
 ## 💻 Tech Stack
 
