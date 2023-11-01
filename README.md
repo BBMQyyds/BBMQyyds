@@ -21,11 +21,14 @@ I converse in multiple programming languages, and my tech arsenal is 🔥:
 - #️⃣ C# for sharp and elegant solutions.
 - 🌐 Crafting webs with HTML, CSS, and JavaScript 🕸️.
 - 🖖 Vue.js for building beautiful, responsive UIs.
+
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BBMQyyds&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite" /> </div>
+
 - 🍃 Spring Boot and Spring Cloud for magical backend spells.
 - 📦 Redis, Minio, and the mystical arts of Nginx.
 - 🌐 Check out my digital abode - [jdsbbmq.com](https://jdsbbmq.com) - it's something special!
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BBMQyyds&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=sun0225SUN&theme=xcode" /> </div>
 
 ## 📫 Get in Touch
 
