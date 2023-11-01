@@ -28,7 +28,7 @@ I converse in multiple programming languages, and my tech arsenal is 🔥:
 - 📦 Redis, Minio, and the mystical arts of Nginx.
 - 🌐 Check out my digital abode - [jdsbbmq.com](https://jdsbbmq.com) - it's something special!
 
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=sun0225SUN&theme=xcode" /> </div>
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=BBMQyyds&theme=xcode" /> </div>
 
 ## 📫 Get in Touch
 
